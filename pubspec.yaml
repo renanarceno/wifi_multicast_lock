@@ -1,10 +1,10 @@
 name: wifi_multicast_lock
 description: A simple Flutter plugin to expose the wifi MulticastLock for wifi connections, that&#x27;s required to receive broadcasts and multicasts.
-version: 0.0.1
+version: 1.0.0
 author: Renan Luiz Arceno
 
 environment:
-  sdk: ">=2.8.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
